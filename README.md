@@ -1,6 +1,9 @@
 # Solar-System
 
+Welcome to my Solar System project! In this exploration, we will see how planets in our Solar System follow specific orbital patterns. Inner planets, like Earth, have shorter orbits, while outer planets, such as Jupiter, take longer to complete their journeys around the Sun. This variation in orbital periods influences the unique characteristics of each planet and contributes to the overall harmony of the Solar System's motion. 
 # Screenshot📷
+![Screenshot 2023-12-12 231257](https://github.com/Varunyadavgithub/Solar-System/assets/134674472/5ae00ff4-1467-4cb4-9400-cc4ba93e3d91)
+
 # About our Solar System
 
 The solar system is a vast cosmic system comprising a central star, the Sun, and a multitude of celestial objects bound to it by gravity. These objects include planets, moons, asteroids, comets, and other space debris. The Sun, with its powerful gravitational pull, dominates the system and governs the motion of the various celestial bodies orbiting around it.<br>
